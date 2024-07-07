@@ -12,9 +12,9 @@ The **Random Meal Recipe App** is an Android application that fetches and displa
 
 ## Screenshots
 <p align="center">
-  <img src="https://github.com/OkayAnshul/RandomMealRecipeApp/assets/174731765/7e594cbc-2c41-42e5-9ade-b13274933993" width="290">
-  <img src="https://github.com/OkayAnshul/RandomMealRecipeApp/assets/174731765/e5659655-f750-4b80-b706-b59699a4c9b0" width="290">
-  <img src="https://github.com/OkayAnshul/RandomMealRecipeApp/assets/174731765/e8b6c592-2184-4b1b-93c2-3273ccdab2ee" width="290">
+  <img src="https://github.com/OkayAnshul/RandomMealRecipeApp/assets/174731765/7e594cbc-2c41-42e5-9ade-b13274933993" width="250">
+  <img src="https://github.com/OkayAnshul/RandomMealRecipeApp/assets/174731765/e5659655-f750-4b80-b706-b59699a4c9b0" width="250">
+  <img src="https://github.com/OkayAnshul/RandomMealRecipeApp/assets/174731765/e8b6c592-2184-4b1b-93c2-3273ccdab2ee" width="250">
 </p>
 
 ## Download
