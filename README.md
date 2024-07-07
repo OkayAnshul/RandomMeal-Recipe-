@@ -19,7 +19,7 @@ The **Random Meal Recipe App** is an Android application that fetches and displa
 
 ## Download
 You can download the APK file and install the app directly on your Android device:
-[Download Random Meal Recipe App APK](https://github.com/OkayAnshul/RandomMealRecipeApp/releases/download/v1.0/RandomMealRecipeApp.apk)
+[Download Random Meal Recipe App APK](https://github.com/OkayAnshul/RandomMealRecipeApp/releases/download/v1.0.0/RandomMealApp.apk.apk)
 
 
 ## Installation
